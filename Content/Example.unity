@@ -113,52 +113,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &1244504645
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 126.73495
-      objectReference: {fileID: 0}
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 3.96
-      objectReference: {fileID: 0}
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 127.03
-      objectReference: {fileID: 0}
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4499639180055140, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 1012636773853788, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: cb273aa5d388db947a7f6b25fe4e238e, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1477449058
 GameObject:
   m_ObjectHideFlags: 0
@@ -196,14 +150,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1477449058}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 885ff46eae570b64faea5ac33a3d9bc7, type: 3}
+  m_Script: {fileID: 11500000, guid: f776d410bc75b38499ebc1f1d88e2b4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tex: {fileID: 2800000, guid: 4407c705d1da47242b4a739a973a9c59, type: 3}
   m_material: {fileID: 2100000, guid: b2df3e63e61e11a48867c1870a3cbcce, type: 2}
-  mode: 0
-  pref: {fileID: 1843730869394924, guid: f2d1b8c0cafef3e4bb51a13beb55a538, type: 2}
-  seed: 0
   voxels: []
 --- !u!1 &1866038435
 GameObject:
