@@ -3,7 +3,7 @@
 C# Unity project that generates a procedural terrain from a noise texture using an [MIT Licensed implementation of Marching Cubes](https://github.com/Scrawk/Marching-Cubes).
 
 ## Demo scene
-  - ASD to move around
+  - WASD to move around
   - Left Shift to move up
   - Left Ctrl to move down
 
