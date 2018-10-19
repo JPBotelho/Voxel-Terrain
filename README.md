@@ -4,11 +4,18 @@ C# Unity project that generates a procedural terrain from a noise texture using 
 
 ## Demo scene
 WASD to move around
+
 Left Shift to move up
+
 Left Ctrl to move down
 
+
+
+
 Right click to delete voxel
+
 Left click to create voxel
+
 
 ## Algorithm
 
